@@ -6,7 +6,7 @@
   <title>LARS — Climbing Themed</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Rock+Salt&family=Roboto:wght@400;700&display=swap');
-
+    
     body {
       margin: 0;
       padding: 0;
